@@ -10,6 +10,7 @@ arduino-cli lib install FTDebouncer
 
 ## Update USBasp firmware
 
+https://blog.lincomatic.com/converting-cheap-chinese-usbhid-fake-usbasps-into-real-usbasps/
 https://forum.arduino.cc/t/autoreset-disabling/350095
 https://per1234.github.io/ino-troubleshooting/burn-bootloader.html#:~:text=Invalid%20device%20signature.,determine%20your%20board's%20SPI%20pins.
 https://www.electronics-lab.com/project/usbasp-firmware-update-guide/
